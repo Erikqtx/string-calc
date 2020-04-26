@@ -1,0 +1,29 @@
+Node
+
+module.exports = defines dependencies and modules
+
+module.exports = {
+    add,
+};
+
+const { add } = require("./string-calc"); = requirement
+
+Javascript
+` = multiline string 
+function x = A JS Function is a block of code and is executed when it is invoked(called)
+
+function toNumber(str) {
+    return parseInt(str) || 0;
+}
+str to number function
+
+.reduce = reduce a array to one value
+Jest
+
+Case test, always same thing
+it("should...x"), () => {
+    expect....to...
+}
+
+"jest --watch" runs jest -o
+jest -o = test related to changed files on git
