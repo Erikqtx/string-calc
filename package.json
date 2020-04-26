@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "tdd": "jest --watch"
+    "tdd": "jest --watch",
+    "scss": "node-sass --watch scss -o css"
   },
   "repository": {
     "type": "git",
