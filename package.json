@@ -1,0 +1,23 @@
+{
+  "name": "string-calc",
+  "version": "1.0.0",
+  "description": "string-calc",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erikqtx/string-calc.git"
+  },
+  "author": "Erik Glaser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Erikqtx/string-calc/issues"
+  },
+  "homepage": "https://github.com/Erikqtx/string-calc#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^25.4.0"
+  }
+}
