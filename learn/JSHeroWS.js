@@ -1,4 +1,6 @@
 //Javascript Hero Grundkenntnisse
+//Start Vorlage Kenntnisse
+
 //Funktions Grundbau:
 var eins = function (name) {
   //Funktion
